@@ -1,5 +1,7 @@
 # BOINC Client Setup on Kubernetes #
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jaysgrant/kubernetes_boinc_client_setup)
+
 This project provides baseline manifests to setup the BOINC computing client on Kubernetes. This evolved from my experimetntation of wanting to run it at home, and contribute to the Rosetta@Home project.
 
 The yaml manifests provided are a starting point, which I have been running on my MicroK8S development machine in my home lab.
